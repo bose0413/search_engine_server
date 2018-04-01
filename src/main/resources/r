@@ -1,0 +1,15 @@
+Trie.TrieNode(children={
+    t=Trie.TrieNode(children={
+        e=Trie.TrieNode(children={
+            s=Trie.TrieNode(children={
+                t=Trie.TrieNode(children={ =Trie.TrieNode(children={
+                    t=Trie.TrieNode(children={
+                        e=Trie.TrieNode(children={
+                            d=Trie.TrieNode(children={}, isWord=true)},
+                        isWord=false)},
+                    isWord=false)},
+                 isWord=false)},
+            isWord=false)},
+        isWord=false)},
+    isWord=false)},
+isWord=false)}, isWord=true)
