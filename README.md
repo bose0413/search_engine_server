@@ -16,3 +16,5 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 ```shell
 mvn spring-boot:run
 ```
+
+The application will be started on port 8080. Swagger UI can be used in order to test REST endpoints (eg. http://localhost:8080/swagger-ui.html). 
